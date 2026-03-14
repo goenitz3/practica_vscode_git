@@ -1,1 +1,3 @@
-{}
+{
+    Feature: "Agregada_Suscripción"
+}
